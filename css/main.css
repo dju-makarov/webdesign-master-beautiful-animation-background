@@ -168,12 +168,12 @@ button {
 	z-index: 1000;
 	text-transform: uppercase;
 }
-
+/* 
 .loading-screen img {
 	width: 10%;
 	border-radius: 10em;
-	/* margin-bottom: 20px; */
-}
+} 
+*/
 
 .loading-screen p {
 	font-size: 5vh;
